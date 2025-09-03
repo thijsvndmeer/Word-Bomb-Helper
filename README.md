@@ -13,8 +13,8 @@ The tool is built using **Python**, and is provided as a ready-to-use **EXE**.
 
 The easiest way to use the overlay is via the **exe**:
 
-1. Go to the [Releases page](https://github.com/USERNAME/REPO/releases).  
-2. Download the latest `wordbomb_typing_overlay.exe`.  
+1. Go to the [Releases page](https://github.com/thijsvndmeer/Word-Bomb-Helper/releases).  
+2. Download the latest `WordBombHelper.exe`.  
 3. Double-click the exe to launch the overlay.  
 
 > The overlay always stays on top of other windows and shows suggestions based on what you type.  
