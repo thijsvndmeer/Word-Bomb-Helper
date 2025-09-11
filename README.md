@@ -1,6 +1,4 @@
-![WordBomb Overlay](image.png)
 <img width="496" height="292" alt="image" src="https://github.com/user-attachments/assets/74fede1a-1023-4163-a474-ec3cbb71b302" />
-
 ---
 
 ## About
