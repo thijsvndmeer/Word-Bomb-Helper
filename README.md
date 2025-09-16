@@ -7,6 +7,8 @@
 
 WordBomb Typing Overlay is a helpful tool for the Roblox game **WordBomb**. It provides word suggestions as you type, with visual highlights and a subtle animation.  
 
+(I reached round 99 300 turns with this, you can easily reach much higher.)
+
 The tool is built using **Python**, and is provided as a ready-to-use **EXE**.
 
 ---
